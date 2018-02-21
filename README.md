@@ -1,4 +1,4 @@
-# vikkis-hello-world
+# VIKKIS SAMARITAN BETA
 My first git repository
 
 Finally I created my first git repository.... wooh!!
